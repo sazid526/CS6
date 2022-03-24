@@ -1,0 +1,1 @@
+ s.unshift(s.pop())
